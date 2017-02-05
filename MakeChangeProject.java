@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class MakeChangeProject {
 	public static void main(String[] args) {
+		//created a new scanner
 		Scanner kb = new Scanner(System.in);
+
 
 		float i1, t1;
 		float change;
